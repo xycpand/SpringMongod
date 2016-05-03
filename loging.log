@@ -1,0 +1,12 @@
+2015-02-12 13:55:27 INFO  ClassPathXmlApplicationContext:513 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2c091cee: startup date [Thu Feb 12 13:55:27 CST 2015]; root of context hierarchy
+2015-02-12 13:55:27 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2015-02-12 14:27:55 INFO  ClassPathXmlApplicationContext:513 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2c091cee: startup date [Thu Feb 12 14:27:55 CST 2015]; root of context hierarchy
+2015-02-12 14:27:56 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2015-02-12 14:28:08 INFO  ClassPathXmlApplicationContext:513 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a4a63d8: startup date [Thu Feb 12 14:28:08 CST 2015]; root of context hierarchy
+2015-02-12 14:28:08 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [applicationContext.xml]
+2015-02-12 14:30:18 INFO  ClassPathXmlApplicationContext:513 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@a4a63d8: startup date [Thu Feb 12 14:30:18 CST 2015]; root of context hierarchy
+2015-02-12 14:30:18 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [WebRoot/WEB-INF/applicationContext.xml]
+2015-02-12 14:31:15 INFO  ClassPathXmlApplicationContext:513 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2c091cee: startup date [Thu Feb 12 14:31:15 CST 2015]; root of context hierarchy
+2015-02-12 14:31:15 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [WebContent/WEB-INF/applicationContext.xml]
+2015-02-12 14:32:07 INFO  ClassPathXmlApplicationContext:513 - Refreshing org.springframework.context.support.ClassPathXmlApplicationContext@2c091cee: startup date [Thu Feb 12 14:32:07 CST 2015]; root of context hierarchy
+2015-02-12 14:32:07 INFO  XmlBeanDefinitionReader:316 - Loading XML bean definitions from class path resource [WebContent/WEB-INF/applicationContext.xml]
